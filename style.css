@@ -1,0 +1,30 @@
+@import url('https://fonts.googleapis.com/css2?family=Carattere&family=Playwrite+MX+Guides&display=swap');
+body {
+	color:white;
+	background-color: lightpink;
+	font-size: 24px;
+}
+
+a{
+	color: hotpink;
+	font-family: "Carattere", cursive;
+}
+h1{
+	font-family: Lucida Bright, monospace;
+	border-width: 1px;
+	border-style: solid;
+	border-radius: 14px;
+    padding: .5em 1em;
+    text-align: center;
+    /*margin: 1em;*/
+ 
+}
+p{
+	font-family: Didot, serif;
+	font-size: 1.16 em;
+}
+
+div#container {
+	margin: 0 auto;
+	width: 800px;
+}
